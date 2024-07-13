@@ -1,3 +1,10 @@
+1- Download the zip from Git
+2- After Unzip the file , Open File in VSCode
+3-Open the terminal from VScode , Run Command- npm install 
+4- After installation of Node , Run Command from Terminal - npm start
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
